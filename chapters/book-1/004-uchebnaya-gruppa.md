@@ -1,4 +1,4 @@
-# Глава 4 — Учебная сессия
+# Глава 4 — Учебная группа
 
 [Оригинал на Royal Road](https://www.royalroad.com/fiction/81002/the-years-of-apocalypse-a-time-loop-progression/)
 

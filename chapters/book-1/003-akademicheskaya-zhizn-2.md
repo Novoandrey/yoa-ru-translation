@@ -1,4 +1,4 @@
-# Глава 3 — Заклинательный экзамен
+# Глава 3 — Академическая жизнь 2
 
 [Оригинал на Royal Road](https://www.royalroad.com/fiction/81002/the-years-of-apocalypse-a-time-loop-progression/)
 
