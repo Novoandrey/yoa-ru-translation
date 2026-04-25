@@ -1,0 +1,41 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.vim/
+
+# Skill build artifacts (regenerated)
+*.skill
+
+# Temporary
+*.tmp
+*.bak
+*.old
+
+# Personal scratch
+scratch/
+notes-personal.md
+
+# OS-specific
+.fuse_hidden*
+.directory
+.Trash-*
+
+# Optional: large files
+*.zip
+*.tar.gz
+*.7z
+
+# Optional: rendered output (if you ever generate epubs/PDFs)
+build/
+dist/
+*.epub
+*.pdf
+*.docx
